@@ -1,0 +1,2 @@
+# CompetitiveProgrammingLibrary
+競技プログラミングで用いるライブラリ
